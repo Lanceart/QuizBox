@@ -1,0 +1,24 @@
+[
+    {
+        "question": "Python是什么?",
+        "options": {
+            "A": "一种动物",
+            "B": "一种语言",
+            "C": "一种食物",
+            "D": "一种植物"
+        },
+        "correct_option": "B",
+        "explanation": "Python是一种编程语言。"
+    },
+    {
+        "question": "地球是什么形状的?",
+        "options": {
+            "A": "平的",
+            "B": "方的",
+            "C": "圆的",
+            "D": "三角的"
+        },
+        "correct_option": ["C","D"],
+        "explanation": "地球是圆形的。"
+    }
+]
